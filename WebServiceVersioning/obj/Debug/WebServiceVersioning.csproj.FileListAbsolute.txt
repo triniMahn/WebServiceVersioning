@@ -1,0 +1,5 @@
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\WebServiceVersioning\bin\WebServiceVersioning.dll
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\WebServiceVersioning\bin\WebServiceVersioning.pdb
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\WebServiceVersioning\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\WebServiceVersioning\obj\Debug\WebServiceVersioning.dll
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\WebServiceVersioning\obj\Debug\WebServiceVersioning.pdb

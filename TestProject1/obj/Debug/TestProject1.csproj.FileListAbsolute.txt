@@ -1,0 +1,6 @@
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\reneb\Documents\My Dropbox\Visual Studio 2010\Projects\WebServiceVersioning\TestProject1\bin\Debug\TestProject1.dll.config
